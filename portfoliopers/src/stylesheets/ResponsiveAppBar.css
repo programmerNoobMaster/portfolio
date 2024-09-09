@@ -1,0 +1,10 @@
+nav {
+  height: 15%;
+  background-color: transparent;
+  position: sticky;
+}
+
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+}
